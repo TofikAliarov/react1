@@ -1,0 +1,16 @@
+.button {
+  border: none;
+  width: 150px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: blue;
+  color: #fff;
+  margin: 20px;
+}
+input {
+  width: 200px;
+  height: 30px;
+  font-size: 18px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
