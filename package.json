@@ -2,6 +2,7 @@
   "name": "react_1",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/TofikAliarov/react1",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@testing-library/jest-dom": "^5.11.10",
