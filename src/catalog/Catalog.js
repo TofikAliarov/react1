@@ -10,7 +10,7 @@ export const Catalog = () => {
       .get("https://api.punkapi.com/v2/beers")
       .then((res) => setItemList(res.data));
   }, []);
-
+  console.log(test);
   function drowItems() {
     const filterd = itemList.filter((el) => {
       const name = el.name.toLowerCase();
